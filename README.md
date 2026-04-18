@@ -6,7 +6,7 @@ A structured risk assessment tool for IT and AI projects, built as a Claude Proj
 
 Most project risk analysis assumes things go a little over budget, a little over schedule. Flyvbjerg's data — 16,000+ projects across 136 countries — shows that certain project types don't follow that pattern. They follow fat-tailed distributions: most projects look fine, but a small percentage produce catastrophic overruns that destroy budgets, careers, and companies.
 
-IT sits at the top of that list. In Flyvbjerg's [2026 peer-reviewed paper](https://doi.org/10.1177/87569728241311009) (Project Management Journal, Vol. 57(1), 14-43), IT is ranked the single most fat-tailed project type across 11,011 projects in 23 categories. It is the only category where the statistical distribution implies no finite worst case.
+IT sits at the top of that list. In Flyvbjerg's [2026 peer-reviewed paper](https://journals.sagepub.com/doi/pdf/10.1177/87569728251340590) (Project Management Journal, Vol. 57(1), 14-43), IT is ranked the single most fat-tailed project type across 11,011 projects in 23 categories. It is the only category where the statistical distribution implies no finite worst case.
 
 This tool helps project leaders pressure-test their IT and AI initiatives against that research before committing budget and reputation.
 
