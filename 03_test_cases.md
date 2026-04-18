@@ -55,13 +55,3 @@ Use these as the first message you send into the Project. Note what the tool doe
 **What to watch for:** Does it engage with the regulatory and ethical dimension, or does it treat this as a purely technical project? A good senior PM would not touch this without legal clearance, and the tool should reflect that judgment.
 
 ---
-
-## Scoring your v1
-
-After running all five:
-
-- If 4-5 tests produce useful responses: move to v2 (Streamlit web app) next week
-- If 2-3 tests produce useful responses: refine the system prompt for the weak cases, re-test
-- If 0-1 tests produce useful responses: reconsider the knowledge document — probably too abstract
-
-Keep notes on what the tool got wrong. Those notes become content — "Here are the 3 things my first AI tool got wrong and what I learned" is a stronger LinkedIn post than a launch announcement.
