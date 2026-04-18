@@ -4,7 +4,7 @@ This walks you through turning the files in this folder into a working Claude Pr
 
 ## Prerequisites
 
-- Claude Pro or Team subscription
+- Claude Pro or Team subscription (ChatGPT could be used too)
 - About 30 minutes
 
 ## Steps
@@ -57,9 +57,3 @@ Things worth customizing:
 
 Once you have at least four of five test cases producing responses you'd be comfortable showing to a colleague or client, you have a working tool.
 
-## Time budget
-
-- Project setup and first test: 20 minutes
-- Running all 5 tests: 30-45 minutes
-- Iteration on the prompt: 1-3 hours
-- Total: 3-5 hours
