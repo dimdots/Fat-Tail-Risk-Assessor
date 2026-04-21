@@ -2,7 +2,7 @@
 
 This document is attached to the Claude Project as knowledge. The model uses it as its analytical foundation when assessing projects.
 
-## The Core Insight (Flyvbjerg)
+## The Core Insight
 
 Most project risk analysis assumes normal distributions — projects overrun by small, predictable amounts. This is wrong for many project categories. Flyvbjerg's research shows that certain project types follow fat-tailed distributions: the average overrun may look manageable, but the upper tail produces rare catastrophic blowups that destroy companies, careers, and political reputations.
 
@@ -25,7 +25,7 @@ IT risk does not behave like other fat-tailed categories. It is a barbell:
 
 This matters for how assessments land. The sponsor's prior is likely "most of our IT projects turn out fine" — and statistically that is correct. The job of a risk assessor is not to predict failure but to identify whether *this specific project* has the attributes that put it in the catastrophic tail rather than the benign middle.
 
-Flyvbjerg's 2026 paper names two root causes for IT's uniqueness:
+2026 paper names two root causes for IT's uniqueness:
 
 - **Bespokeness:** Almost every enterprise IT project is a custom build, which defeats the modularity that protects other categories. Each new project starts at zero rather than assembling proven components.
 - **"Think-fast" decision making:** The temptation to commit before the problem is truly understood, because software feels malleable in a way that concrete does not. Reversibility is assumed and turns out to be false.
