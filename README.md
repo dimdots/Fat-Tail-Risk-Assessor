@@ -27,7 +27,7 @@ The output reads like a senior PM looked at your specific situation — not like
 
 ## What you need
 
-- A Claude Pro or Team subscription
+- A Claude Pro or Team subscription (ChatGPT is also an option)
 - 30 minutes to set up and run the first test
 - 2-3 hours to run all five test cases and iterate
 
