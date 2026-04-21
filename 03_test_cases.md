@@ -1,6 +1,6 @@
 # Test Cases — Validate the Tool Before Going Public
 
-Run these test cases once the Claude Project is set up. Each one is designed to expose a specific kind of weakness in the tool. If it handles all five well, you're ready to move to v2 (the web app).
+Run these test cases once the Claude Project is set up. Each one is designed to expose a specific kind of weakness in the tool. If it handles all five well, you're ready to move to the next stage.
 
 Use these as the first message you send into the Project. Note what the tool does well and what it misses.
 
